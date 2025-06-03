@@ -1,1 +1,15 @@
 # Decreased Uniqueness of the Neural Connectome in a Highly Cohesive Environment
+Code and data for the manuscript "Decreased Uniqueness of the Neural Connectome in a Highly Cohesive Environment" by Noga Yair, Asaf Madar,	Niv Tik, Tom Zalmenson, Omer Azriel, Dana Shamai-Leshem, Yaron Alon, Lucian Tatsa-Laur, Ariel Ben-Yehuda, Daniel S. Pine, Paul D. Bliese, Michal Bernstein-Eliav, Emily S. Finn, Yair Bar-Haim , & Ido Tavor.
+
+
+
+
+
+
+
+
+
+
+
+
+, Ido Tavor* & Dino J Levy*.
